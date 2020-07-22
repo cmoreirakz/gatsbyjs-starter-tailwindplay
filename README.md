@@ -79,3 +79,5 @@ For issues and features request, use **Github** or access the [support page](htt
 
 ---
 [GatsbyJS Tailwind Starter](https://gatsbyjs-starter-tailwindplay.appseed.us/) provided by **AppSeed**
+
+[![Run on Repl.it](https://repl.it/badge/github/app-generator/gatsbyjs-starter-tailwindplay)](https://repl.it/github/app-generator/gatsbyjs-starter-tailwindplay)
